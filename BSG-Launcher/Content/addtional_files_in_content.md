@@ -1,0 +1,17 @@
+activite_code.html
+analytics.html
+bsg_logo.bmp
+bug_report.html
+cf_challenge.html
+config_matching.html
+dialog.html
+favicon.icon
+feedback.html
+index.html
+installation.html
+language_selector.html
+license_agreement_window.html
+login.html
+progress_bar.html
+request_restart.html
+settings.html
